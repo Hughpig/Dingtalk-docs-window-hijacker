@@ -1,2 +1,2 @@
-# Dingtalk-window-hijacker
-Find it hard and slow to open a link directly through Dingtalk?Why not choose to hijack it!
+# Dingtalk-docs-window-hijacker
+Find it hard and slow to open Dinktalk docs directly through Dingtalk?Why not choose to hijack it!
